@@ -6,11 +6,8 @@
             "type": "string"
         }
     },
-    "variables": {
-        },
-    "resources": [
-        
-    ],
+    "variables": {},
+    "resources": [],
     "outputs": {
         "vmFullReference": {
             "type": "object",
